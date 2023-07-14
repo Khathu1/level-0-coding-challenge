@@ -21,7 +21,7 @@ z = 1 + ( 1 * 2 )
 a = 1 + 1 * 2 / 2
 b = (1 + 1 * 2 ) /  2
 
-print all the things
+print all the thingsx
 
 Task 0.3
 
